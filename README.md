@@ -1,4 +1,4 @@
-### Hi am Josphine Wairimu 
+# Hi👋 am Josphine Wairimu 
 ## About me
 * Am currently studying computer programming
 * This involves:
@@ -6,5 +6,8 @@
   - Javascript
   -  Css
 
-    # Goal
+    ### Goal
   * To become a skilled software engineer 
+
+* connect with me:
+[MY github](github.com josjoy2007-lab)
